@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Beshir] 👋
 
 I'm a 16-year-old programmer passionate about low-level programming, memory management, and Linux.  
 I started with Scratch and Python (bs4, PyQt5, computer vision), then discovered C and fell in love with system programming.  
@@ -13,11 +13,8 @@ I also love documenting my learning journey and sharing it with others.
   A screen-distance tracking app that dims the display.  
   Optimized for 0% CPU and 240 MB RAM.
 
-- **Türkman**  
+- **Turkman**  
   A CLI tool that translates Linux man pages into Turkish.
-
-- **Custom Shell**  
-  A shell written in C to practice memory management and system calls.
 
 ---
 
